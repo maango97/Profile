@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 안녕하세요, Data Analyst를 꿈꾸는 심지민입니다  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 데이터 분석을 통해 인사이트를 발견하고 문제를 해결하는 일에 매료되어 2024년 5월부터 관련 프로젝트와 학습을 지속해오고 있습니다. 일본 인사팀 근무 경험을 통해 데이터 기반 의사 결정의 중요성을 깨닫고, 귀국 후 본격적으로 데이터 분석에 전념하고 있습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 2024년 5월부터 데이터 분석 프로젝트와 학습을 이어오며 문제 해결의 즐거움을 경험하고 있습니다. 일본에서 인사팀으로 근무하며 데이터 기반 의사 결정의 중요성을 깨닫고, 귀국 후 이를 심화하기 위해 본격적으로 공부를 시작했습니다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
